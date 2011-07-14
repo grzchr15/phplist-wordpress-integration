@@ -1,0 +1,14 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+Base and credit to:
+http://projects.jesseheap.com/all-projects/wordpress-plugin-phplist-form-integration
+
+
+= Details =
+
+I am working to test some updates to phplists + phplist wordpress integration
+  * Missing wordpress auth integration of phplists
+  * php5.3 issues
+  * German Languages po file
